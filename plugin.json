@@ -1,0 +1,22 @@
+{
+  "author": "SUPINFO AppFactory",
+  "pluginName": "Google Forms",
+  "pluginDescription": "Take surveys, plan your next camping trip, manage event registrations, whip up a quick poll, collect email addresses for a newsletter, create a pop quiz, and much more.Related Topics:Google Plus, Students",
+  "supportEmail": "supinfoappfactory@supinfo.com",
+  "supportSite":"http://support.appdocumentation.com/knowledge-base/google-forms-plugin-tutorial//",
+  "control": {
+    "content": {
+      "enabled": true
+    },
+    "settings": {
+      "enabled": false
+    },
+    "design": {
+      "enabled": false
+    }
+  },
+  "widget": {
+  },
+  "features": [],
+  "languages": ["en"]
+}
